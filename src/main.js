@@ -14,3 +14,4 @@ var vm = new Vue({
         return createElement(app)
     }
 })
+console.log('ok')
